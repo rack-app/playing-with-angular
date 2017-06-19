@@ -1,0 +1,2 @@
+website: bundle exec shotgun
+builder: ng build --watch
